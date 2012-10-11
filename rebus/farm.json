@@ -1,0 +1,10 @@
+{
+  "name": "limorl-anode",
+  "workersDisabled": false,
+  "azureStorage": {
+    "account" : {
+      "name" : "limorlanodestorage",
+      "key" : "5VbeQQjouCppDPWiC6vuOWpobp4WzFLPbptBUQKq4Pj9UCBYLvN4BTCrwMz5N2j0itusWplgSoQjPkp3RtUEaw=="
+    }
+  }
+}
